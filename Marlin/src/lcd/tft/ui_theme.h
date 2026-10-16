@@ -24,7 +24,7 @@
 #include "../../inc/MarlinConfigPre.h"
 
 #ifndef TFT_THEME
-  #define TFT_THEME BLUE_MARLIN
+  #define TFT_THEME NOVIN3DP
 #endif
 
 #define TFT_THEME_INCL_(M) STRINGIFY_(themes/theme_##M.h)
